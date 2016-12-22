@@ -1,7 +1,7 @@
 # to_flat_array
 Convert nested array to flat array.
 
-What is to_flat_array?
+<strong>What is to_flat_array?</strong>
 
 to_flat_array is a function to transform nested arrays to flat arrays.
 
